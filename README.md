@@ -5,3 +5,5 @@
 
 
 # Uso do comando restore 
+
+Comando git push
